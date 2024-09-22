@@ -18,7 +18,7 @@ This project involves the development of an autonomous mobile robot capable of s
 
 Watch the following videos to see the SLAM implementation and wall-following task in action:
 
-1. **SLAM Demonstration**:
+1. **Beacon Detection**:
    [![SLAM Demonstration](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/hardikshukla7/Autonomous-Mobile-Robot/blob/main/Beacon_test.mp4)
 
 2. **Wall Following Task**:
