@@ -20,9 +20,10 @@ This project involves the development of an autonomous mobile robot capable of s
 
 ### Prerequisites
 
+-ESP32 Microcontroller 
 - C/C++ compiler
 - HTC VIVE system for localization
-- Infrared sensors for object detection
+- Infrared sensors and Ultrasonic sensors for object detection
 
 ### Installation
 
