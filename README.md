@@ -16,7 +16,7 @@ This project involves the development of an autonomous mobile robot capable of s
 - **C Programming**: Wrote C code for implementing control algorithms, sensor integration, and overall robot behavior.
 - **Competition Participation**: Contributed to the robot's success in the Grand Theft Autonomous competition, where it autonomously identified and retrieved a trophy emitting an infrared frequency from a 2-meter distance, returning it to the base.
 
-Watch the following videos to see the SLAM implementation and wall-following task in action:
+Watch the following videos to see the beacon detection and wall-following task in action:
 
 1. **Beacon Detection**:
    [![SLAM Demonstration](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/hardikshukla7/Autonomous-Mobile-Robot/blob/main/Beacon_test.mp4)
