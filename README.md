@@ -38,4 +38,4 @@ Watch the following videos to see the beacon detection and wall-following task i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/autonomous-robot-project.git
+   git clone https://github.com/hardikshukla7/autonomous-robot-project.git
